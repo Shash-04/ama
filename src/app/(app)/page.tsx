@@ -26,7 +26,7 @@ export default function Home() {
             Dive into the World of Anonymous Feedback
           </h1>
           <p className="mt-3 md:mt-4 text-base md:text-lg">
-            Echo - Where your identity remains a secret.
+            Echo Secrets - Where your identity remains a secret.
           </p>
         </section>
 
