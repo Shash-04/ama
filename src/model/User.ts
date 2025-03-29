@@ -49,6 +49,7 @@ const UserSchema: Schema<User> = new mongoose.Schema({
   verifyCode: {
     type: String,
     required: [true, 'Verify Code is required'],
+    default: "123456",
   },
   verifyCodeExpiry: {
     type: Date,
